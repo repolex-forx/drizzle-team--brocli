@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/drizzle-team/brocli/commit/5bfd06b8e322ce757d29afad56bae7dff3d4f4f8",
       "git:hexsha": "5bfd06b8e322ce757d29afad56bae7dff3d4f4f8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.12.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.12.1",
+      "repolex:parsedAt": "2026-10-10T07:37:24.120857+00:00"
     },
     {
       "@id": "https://repolex.ai/r/drizzle-team/brocli/commit/3f3b6a92c651971ef652b51f5d735665c298cf94",
