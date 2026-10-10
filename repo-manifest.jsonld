@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/drizzle-team/brocli/commit/5bfd06b8e322ce757d29afad56bae7dff3d4f4f8",
       "git:hexsha": "5bfd06b8e322ce757d29afad56bae7dff3d4f4f8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.12.1"
     },
     {
